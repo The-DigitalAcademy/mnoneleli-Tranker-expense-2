@@ -22,3 +22,7 @@ let Expenses = {
     total: 0
 };
 
+const EXP_TYPES = {
+    inc: 'income',
+    exp: 'expense'
+}
